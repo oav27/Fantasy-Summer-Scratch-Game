@@ -58,5 +58,5 @@ I hold this game near and dear to my heart, beause it was one of the first ones 
 
 ---
 
-### The Only Piece We Have! Please enjoy the video in the repo showing what once was! (Excuse the shaky shot and setting)
+### The Only Piece We Have! Please enjoy the video in the repo showing what once was! (Excuse the shaky, grainy shot, and the setting)
 
