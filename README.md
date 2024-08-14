@@ -6,7 +6,7 @@ Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ### Preview:
 
-I created this game with a friend during our summer just before freshman year of high school! As I was creating this repo, I had to go digging "in the archives" and found a short video on how it looked and ran. This video shows our game in its early stages, with just the two levels. After this video was taken, we added a wizard character and fun sound!
+I created this game with a friend during our summer just before freshman year of high school! As I was creating this repo, I had to go digging "in the archives" and found a short video on how it looked and ran. This video shows our game in its early stages, with just the two levels. After this video was taken, we added a wizard character and fun music and sound!
 
 Please read through the creative process it took to create this two level game, enjoy the short video, and take a look at the code! Thank you!
 
@@ -28,7 +28,7 @@ We wanted it to be a fun, and easy game because we were quite bereft of game-cre
 
 ### My Idea For A Level:
 
-![Boss Setting](https://github.com/user-attachments/assets/2e9df00a-0f6c-46ff-a0e9-8aede06ab5ff)
+![Boss Setting](https://github.com/user-attachments/assets/eeb0ee9c-bc63-4e98-8fc0-19fca1335459)
 
 ---
 
@@ -48,7 +48,7 @@ We decided that the first level would be his maze solving mini game, and then my
 
 ### My Boss Battle Level:
 
-![Beginning of 2nd Level](https://github.com/user-attachments/assets/0638275f-8732-424a-a58b-658371077933)
+![Beginning of 2nd level](https://github.com/user-attachments/assets/85a9124a-f1d9-4194-8874-0d13aa10b50b)
 
 ---
 
@@ -92,11 +92,11 @@ Eventually the time ran out for the competition, and we submitted our game with 
 
 Overall, I absolutely loved this game for a number of reasons! I love how it looked, I love how my vision and Sammy's came to life. And I love that it looks good without trying so hard. It is simple in its colors and objectives, but it is still fun! 
 
-I hold this game near and dear to my heart, beause it was one of the first ones I made while having art involved! It also is a great reminder of my times working with one who would eventually become a very good friend of mine. Please enjoy the remains that I have of this game!
+I hold this game near and dear to my heart, because it was one of the first ones I made while having art involved! It also is a great reminder of my times working with one who would eventually become a very good friend of mine. Please enjoy the remains that I have of this game!
 
 ---
 
-## The Only Piece We Have of The Original Game! 
+## The Only Video We Have of During It's Creation! 5+ Years Ago! 
 
-Please enjoy the video in the repo showing what once was! (Excuse the shaky, grainy shot, and the setting)
+Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a longggg time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
 
