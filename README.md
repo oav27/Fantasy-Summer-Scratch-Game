@@ -3,7 +3,8 @@
 Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ---
-## Want To Play/See The Game?
+
+[Want To Play/See The Game?](#heading-ids)
 
 ### Preview:
 
@@ -97,7 +98,7 @@ I hold this game near and dear to my heart, because it was one of the first ones
 
 ---
 
-## Want To Play/See The Game? 
+## [Want To Play/See The Game?](https://github.com/oav27/Fantasy-Summer-Scratch-Game/blob/main/Olivia%20and%20Samuel%20Maze%20Game.html)
 
 Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a longggg time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
 
