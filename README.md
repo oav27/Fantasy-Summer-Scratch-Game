@@ -103,7 +103,7 @@ I hold this game near and dear to my heart, because it was one of the first ones
 
 ## See AND Play The Game?
 
-Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a longggg time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
+Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a loooong time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
 
 You can also play the game [here](https://github.com/oav27/Fantasy-Summer-Scratch-Game/blob/main/Olivia%20and%20Samuel%20Maze%20Game.html)!
 
