@@ -6,7 +6,7 @@ Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ### Preview:
 
-As much as I loved this game, I sadly cannot find the file for it. I created it with a friend during our summer just before freshman year of high school! Since we lost access to our high school accounts (as we are now college students), that means that we also lost access to the code of this really fun, quick summer game we made. All I have left is this quick video on how it looked and ran. This video shows our game in its early stages, with only two levels. After this video was taken, we added more awesome levels! So all I have left here is this video. 
+As much as I loved this game, I sadly cannot find the files for it. I created it with a friend during our summer just before freshman year of high school! Since we lost access to our high school accounts (as we are now college students), that means that we also lost access to the code of this really fun, quick summer game we made. All I have left is this short video on how it looked and ran. This video shows our game in its early stages, with only two levels. After this video was taken, we added more awesome levels! So all I have left here is this video. 
 
 Perhaps one day I will have the time to sit down and recreate it! Please enjoy this short video, and read through the creative process it took to create this two level game. Thank you!
 
@@ -14,7 +14,7 @@ Perhaps one day I will have the time to sit down and recreate it! Please enjoy t
 
 ### Brainstorm:
 
-It all started when my friend and I were at a computer science camp. We were there prepping for the beginning of our high school career, and they were having a video game contest. They wanted kids to randomly pair up and make a game. So my friend Sammy, and I paired up to make a game. 
+It all started when my friend and I were at a computer science camp. We were there prepping for the beginning of our high school career, and they were having a video game contest. They wanted kids to randomly pair up and make a game. So my friend, Sammy, and I paired up to make a game. 
 
 We wanted it to be a fun, and easy game because we were quite bereft of game-creating knowledge. He wanted to do a fun maze game, and I wanted to do a quick battle with a fantastical element. Together we compromised and composed of a game that had both ideas act as game levels.
 
@@ -24,21 +24,26 @@ We wanted it to be a fun, and easy game because we were quite bereft of game-cre
 
 ### My Idea For A Level:
 
-![Beginning of 2nd Level](https://github.com/user-attachments/assets/0638275f-8732-424a-a58b-658371077933)
-
+![Boss Setting](https://github.com/user-attachments/assets/2e9df00a-0f6c-46ff-a0e9-8aede06ab5ff)
 
 ---
 
 ### Precoding/Planning:
 
-Once we knew what levels and elements we wanted, we started sketching out how we wanted our game to look. We made our protaganist, a cute comforting circle, our ultimate antaganist, a evil looking triangle, and our sequence of levels.
+Once we knew what levels and elements we wanted, we started sketching out how we wanted our game to look. We made our protaganist, a cute comforting circle, our ultimate antaganist, a evil looking triangle (screenshotted below), and our sequence of levels.
 
+### Boss Level "Game Over" Title Card:
 ![Boss Game Over](https://github.com/user-attachments/assets/c3f4fd68-1b47-44b7-8533-aed119967525)
 
 
-First would be his maze solving level, and then my battle against the triangle. For each level, we figured out what colors we wanted, and what the background would look like. Once we made a general sketch, we got to work.
+We decided that the first level would be his maze solving mini game, and then my battle against the triangle would be the second level. For each level, we figured out what colors we wanted, and what the background would look like. Once we made a general sketch, we got to work.
 
+### Sammy's Maze Level:
 ![Maze Hero Moving](https://github.com/user-attachments/assets/6b052206-dd97-47b0-9aa1-91bba90fdc34)
+
+### My Boss Battle Level:
+
+![Beginning of 2nd Level](https://github.com/user-attachments/assets/0638275f-8732-424a-a58b-658371077933)
 
 ---
 
@@ -52,13 +57,14 @@ Overall, it was a great collaraboration effort, and we benefited greatly by comm
 
 ### Difficulties Encountered:
 
-From what I remember, it seemed that I had trouble figuring out how I wanted the boss to come after the hero. I wasn't sure if I wanted it to throw fireballs or spikes, or if I wanted it to chase after the hero. After deciding I wanted it to chase, it was figuring out how to have the hero beat the boss. 
+From what I remember, it seemed that I had trouble figuring out how I wanted the boss to come after the hero. I wasn't sure if I wanted it to throw fireballs or spikes, or if I wanted it to chase after the hero. After deciding I wanted it to chase, I had trouble figuring out how to have the hero beat the boss. 
 
-
+### Example of Boss Taking Life:
 ![Boss Take Life](https://github.com/user-attachments/assets/06cd688e-39f6-4836-b6ae-7088fd02481b)
 
-It was the idea to create a sword sprite, and have it be "collected" by the hero, and then used by the hero made my head get scratched a bit. Especially since I wanted the hero to be able to point the sword at the boss, and essentially stab or poke it. In order to point it at the boss, I had to learn how to have the sword follow the mouse, and have the "Boss Lives:" go down. This was a bit of a learning and educational curve, but luckily Sammy and I did not give up on making this feature happen!
+It was the idea to create a sword sprite, have it be "collected" by the hero, and then used by the hero made my head get scratched a bit. Especially since I wanted the hero to be able to point the sword at the boss, and essentially stab or poke it. In order to point it at the boss, I had to learn how to have the sword follow the mouse, and have the "Boss Lives:" go down. This was a bit of a learning and educational curve, but luckily Sammy and I did not give up on making this feature happen!
 
+### Example of Hero Winning:
 ![Live of Second Level](https://github.com/user-attachments/assets/4c1a271b-4679-4f3d-8bbc-bc9aa1506902)
 
 
