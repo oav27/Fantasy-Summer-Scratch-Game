@@ -6,9 +6,9 @@ Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ### Preview:
 
-As much as I loved this game, I sadly cannot find the files for it. I created it with a friend during our summer just before freshman year of high school! Since we lost access to our high school accounts (as we are now college students), that means that we also lost access to the code of this really fun, quick summer game we made. All I have left is this short video on how it looked and ran. This video shows our game in its early stages, with only two levels. After this video was taken, we added more awesome levels! So all I have left here is this video. 
+I created this game with a friend during our summer just before freshman year of high school! As I was creating this repo, I had to go digging "in the archives" and found a short video on how it looked and ran. This video shows our game in its early stages, with just the two levels. After this video was taken, we added a wizard character and fun sound!
 
-Perhaps one day I will have the time to sit down and recreate it! Please enjoy this short video, and read through the creative process it took to create this two level game. Thank you!
+Please read through the creative process it took to create this two level game, enjoy the short video, and take a look at the code! Thank you!
 
 ---
 
@@ -18,9 +18,13 @@ It all started when my friend and I were at a computer science camp. We were the
 
 We wanted it to be a fun, and easy game because we were quite bereft of game-creating knowledge. He wanted to do a fun maze game, and I wanted to do a quick battle with a fantastical element. Together we compromised and composed of a game that had both ideas act as game levels.
 
+### Opening Title Card (the fantastical vibes at hand here):  
+
+![Opening Title Card](https://github.com/user-attachments/assets/c7be867a-19a2-4d2e-8ac2-d68c1a8a75bc)
+
 ### Sammy's Idea For A Level:
 
-![Maze Game Over](https://github.com/user-attachments/assets/889b56e8-7b67-42e0-aeea-3e240be8c695)
+![Maze Game Over Title Card](https://github.com/user-attachments/assets/d5f2120d-ae83-4e7b-a2ff-ac2bfb2d1b2d)
 
 ### My Idea For A Level:
 
@@ -33,13 +37,14 @@ We wanted it to be a fun, and easy game because we were quite bereft of game-cre
 Once we knew what levels and elements we wanted, we started sketching out how we wanted our game to look. We made our protaganist, a cute comforting circle, our ultimate antaganist, a evil looking triangle (screenshotted below), and our sequence of levels.
 
 ### Boss Level "Game Over" Title Card:
-![Boss Game Over](https://github.com/user-attachments/assets/c3f4fd68-1b47-44b7-8533-aed119967525)
 
+![Boss Game Over](https://github.com/user-attachments/assets/d93dab1e-321b-4042-8acf-bf35fdc7cd55)
 
 We decided that the first level would be his maze solving mini game, and then my battle against the triangle would be the second level. For each level, we figured out what colors we wanted, and what the background would look like. Once we made a general sketch, we got to work.
 
 ### Sammy's Maze Level:
-![Maze Hero Moving](https://github.com/user-attachments/assets/6b052206-dd97-47b0-9aa1-91bba90fdc34)
+
+![Maze In Action](https://github.com/user-attachments/assets/09020e56-7646-44ef-b86d-3aaef4f7cfbd)
 
 ### My Boss Battle Level:
 
@@ -77,9 +82,9 @@ It was the idea to create a sword sprite, have it be "collected" by the hero, an
 
 Eventually the time ran out for the competition, and we submitted our game with every element we wanted and planned for. To our great fortune, we won the game-creating contest! It was applauded for having more advanced gameplay than the others, and for having fairly great art. Sammy and I were very very happy!
 
-### The Game's You Win Title Card (apologies for the grainy picture, it is all I have of the game!)
+### The Game's *You Win* Title Card 
 
-![You Win](https://github.com/user-attachments/assets/52a24405-59e0-4f67-8dc6-e028a23cad64)
+![You Win Title Card](https://github.com/user-attachments/assets/e0b12c5b-904c-4c28-867f-e7617abdb22e)
 
 ---
 
