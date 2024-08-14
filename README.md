@@ -18,13 +18,27 @@ It all started when my friend and I were at a computer science camp. We were the
 
 We wanted it to be a fun, and easy game because we were quite bereft of game-creating knowledge. He wanted to do a fun maze game, and I wanted to do a quick battle with a fantastical element. Together we compromised and composed of a game that had both ideas act as game levels.
 
+### Sammy's Idea For A Level:
+
+![Maze Game Over](https://github.com/user-attachments/assets/889b56e8-7b67-42e0-aeea-3e240be8c695)
+
+### My Idea For A Level:
+
+![Beginning of 2nd Level](https://github.com/user-attachments/assets/0638275f-8732-424a-a58b-658371077933)
+
+
 ---
 
 ### Precoding/Planning:
 
 Once we knew what levels and elements we wanted, we started sketching out how we wanted our game to look. We made our protaganist, a cute comforting circle, our ultimate antaganist, a evil looking triangle, and our sequence of levels.
 
+![Boss Game Over](https://github.com/user-attachments/assets/c3f4fd68-1b47-44b7-8533-aed119967525)
+
+
 First would be his maze solving level, and then my battle against the triangle. For each level, we figured out what colors we wanted, and what the background would look like. Once we made a general sketch, we got to work.
+
+![Maze Hero Moving](https://github.com/user-attachments/assets/6b052206-dd97-47b0-9aa1-91bba90fdc34)
 
 ---
 
@@ -38,15 +52,28 @@ Overall, it was a great collaraboration effort, and we benefited greatly by comm
 
 ### Difficulties Encountered:
 
-From what I remember, it seemed that I had trouble figuring out how I wanted the boss to come after the hero. I wasn't sure if I wanted it to throw fireballs or spikes, or I wanted it to chase after the hero. After deciding I wanted it to chase, it was figuring out how to have the hero beat the boss. 
+From what I remember, it seemed that I had trouble figuring out how I wanted the boss to come after the hero. I wasn't sure if I wanted it to throw fireballs or spikes, or if I wanted it to chase after the hero. After deciding I wanted it to chase, it was figuring out how to have the hero beat the boss. 
+
+
+![Boss Take Life](https://github.com/user-attachments/assets/06cd688e-39f6-4836-b6ae-7088fd02481b)
 
 It was the idea to create a sword sprite, and have it be "collected" by the hero, and then used by the hero made my head get scratched a bit. Especially since I wanted the hero to be able to point the sword at the boss, and essentially stab or poke it. In order to point it at the boss, I had to learn how to have the sword follow the mouse, and have the "Boss Lives:" go down. This was a bit of a learning and educational curve, but luckily Sammy and I did not give up on making this feature happen!
+
+![Live of Second Level](https://github.com/user-attachments/assets/4c1a271b-4679-4f3d-8bbc-bc9aa1506902)
+
+
+![Hero Take Life](https://github.com/user-attachments/assets/891b55f7-8a71-484d-9f42-960ef04087f1)
+
 
 ---
 
 ### Reception:
 
 Eventually the time ran out for the competition, and we submitted our game with every element we wanted and planned for. To our great fortune, we won the game-creating contest! It was applauded for having more advanced gameplay than the others, and for having fairly great art. Sammy and I were very very happy!
+
+### The Game's You Win Title Card (apologies for the grainy picture, it is all I have of the game!)
+
+![You Win](https://github.com/user-attachments/assets/52a24405-59e0-4f67-8dc6-e028a23cad64)
 
 ---
 
@@ -58,5 +85,7 @@ I hold this game near and dear to my heart, beause it was one of the first ones 
 
 ---
 
-### The Only Piece We Have! Please enjoy the video in the repo showing what once was! (Excuse the shaky, grainy shot, and the setting)
+## The Only Piece We Have of The Original Game! 
+
+Please enjoy the video in the repo showing what once was! (Excuse the shaky, grainy shot, and the setting)
 
