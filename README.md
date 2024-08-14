@@ -3,6 +3,7 @@
 Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ---
+## Want To Play/See The Game?
 
 ### Preview:
 
@@ -96,7 +97,7 @@ I hold this game near and dear to my heart, because it was one of the first ones
 
 ---
 
-## The Only Video We Have of During It's Creation! 5+ Years Ago! 
+## Want To Play/See The Game? 
 
 Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a longggg time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
 
