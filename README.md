@@ -2,12 +2,13 @@
 
 Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
----
+
+
 ## Want To Play/See the Game?
 
-Head over to the [See AND Play The Game](#custom-id) section! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
+Head over to the **See AND Play The Game section** (at the bottom of the page)! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
 
----
+
 
 ## Preview:
 
@@ -15,7 +16,7 @@ I created this game with a friend during our summer just before freshman year of
 
 Please read through the creative process it took to create this two level game, enjoy the short video, and take a look at the code! Thank you!
 
----
+
 
 ## Brainstorm:
 
@@ -35,7 +36,7 @@ We wanted it to be a fun, and easy game because we were quite bereft of game-cre
 
 ![Boss Setting](https://github.com/user-attachments/assets/eeb0ee9c-bc63-4e98-8fc0-19fca1335459)
 
----
+
 
 ## Precoding/Planning:
 
@@ -55,7 +56,6 @@ We decided that the first level would be his maze solving mini game, and then my
 
 ![Beginning of 2nd level](https://github.com/user-attachments/assets/85a9124a-f1d9-4194-8874-0d13aa10b50b)
 
----
 
 ## Creation Time:
 
@@ -63,7 +63,7 @@ Coding on Scratch is a great way to get started. I loved coding on this platform
 
 Overall, it was a great collaraboration effort, and we benefited greatly by communicating our ideas and opinions.
 
----
+
 
 ## Difficulties Encountered:
 
@@ -81,7 +81,7 @@ It was the idea to create a sword sprite, have it be "collected" by the hero, an
 ![Hero Take Life](https://github.com/user-attachments/assets/891b55f7-8a71-484d-9f42-960ef04087f1)
 
 
----
+
 
 ## Reception:
 
@@ -91,7 +91,8 @@ Eventually the time ran out for the competition, and we submitted our game with 
 
 ![You Win Title Card](https://github.com/user-attachments/assets/e0b12c5b-904c-4c28-867f-e7617abdb22e)
 
----
+
+  
 
 ## Final Thoughts:
 
@@ -99,9 +100,10 @@ Overall, I absolutely loved this game for a number of reasons! I love how it loo
 
 I hold this game near and dear to my heart, because it was one of the first ones I made while having art involved! It also is a great reminder of my times working with one who would eventually become a very good friend of mine. Please enjoy the remains that I have of this game!
 
----
 
-## See AND Play The Game {#custom-id}
+
+
+## See AND Play The Game
 
 Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a loooong time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
 
