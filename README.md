@@ -5,7 +5,7 @@ Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 ---
 ## Want To Play/See the Game?
 
-Head over to the [See AND Play The Game](#see-and-play-the-game) section! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
+Head over to the [See AND Play The Game](#custom-id) section! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
 
 ---
 
@@ -101,7 +101,7 @@ I hold this game near and dear to my heart, because it was one of the first ones
 
 ---
 
-## See AND Play The Game
+## See AND Play The Game {#custom-id}
 
 Please enjoy the video in the repo showing what the main game was! (Excuse the shaky, grainy shot, and the setting. It was taken a loooong time ago. You will notice it does not even have the Opening Title card or the music/sound yet.)
 
