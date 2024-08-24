@@ -98,8 +98,9 @@ Eventually the time ran out for the competition, and we submitted our game with 
 
 Overall, I absolutely loved this game for a number of reasons! I love how it looked, I love how my vision and Sammy's came to life. And I love that it looks good without trying so hard. It is simple in its colors and objectives, but it is still fun! 
 
-I hold this game near and dear to my heart, because it was one of the first ones I made while having art involved! It also is a great reminder of my times working with one who would eventually become a very good friend of mine. Please enjoy the remains that I have of this game!
+Of course I would change a few things, as this game was made many years ago when I was very new to the creating world. I would make the instructions more clear for both levels, I would change the controls for moving, and I would have removed the short time it takes to transition from the introduction of the second level to the actual start of the level. However, I still show this project because I want others to see how far I've come with planning and executing an idea. With my newer projects, the level of complexity that was required meant that testing, and planning was deeply used.
 
+All in all, I hold this game near and dear to my heart, because it was one of the first ones I made while having art involved! It also is a great reminder of my times working with one who would eventually become a very good friend of mine. Please enjoy the remains that I have of this game!
 
 
 
