@@ -6,7 +6,7 @@ Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ## Want To Play/See the Game?
 
-Head over to the **See AND Play The Game section** (at the bottom of the page)! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
+Head over to the **[See AND Play The Game section](https://github.com/oav27/Fantasy-Summer-Scratch-Game/edit/main/README.md#see-and-play-the-game)** (at the bottom of the page)! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
 
 
 
@@ -59,9 +59,7 @@ We decided that the first level would be his maze solving mini game, and then my
 
 ## Creation Time:
 
-Coding on Scratch is a great way to get started. I loved coding on this platform, and found it super encouraging to get more and more creative. Sammy and I shared duties most of the times. I would code quite a lot, and give direction on how I wanted to game the look. Sammy would do a great job in making my vision a reality, while also helping me code here and there. 
-
-Overall, it was a great collaraboration effort, and we benefited greatly by communicating our ideas and opinions.
+Coding on Scratch is a great way to get started. I loved coding on this platform, and found it super encouraging to get more and more creative. 
 
 
 
@@ -72,7 +70,7 @@ From what I remember, it seemed that I had trouble figuring out how I wanted the
 ### Example of Boss Taking Life:
 ![Boss Take Life](https://github.com/user-attachments/assets/06cd688e-39f6-4836-b6ae-7088fd02481b)
 
-It was the idea to create a sword sprite, have it be "collected" by the hero, and then used by the hero made my head get scratched a bit. Especially since I wanted the hero to be able to point the sword at the boss, and essentially stab or poke it. In order to point it at the boss, I had to learn how to have the sword follow the mouse, and have the "Boss Lives:" go down. This was a bit of a learning and educational curve, but luckily Sammy and I did not give up on making this feature happen!
+It was the idea to create a sword sprite, have it be "collected" by the hero, and then used by the hero made my head get scratched a bit. Especially since I wanted the hero to be able to point the sword at the boss, and essentially stab or poke it. In order to point it at the boss, I had to learn how to have the sword follow the mouse, and have the "Boss Lives:" go down. This was a bit of a learning and educational curve, but luckily I did not give up on making this feature happen!
 
 ### Example of Hero Winning:
 ![Live of Second Level](https://github.com/user-attachments/assets/4c1a271b-4679-4f3d-8bbc-bc9aa1506902)
