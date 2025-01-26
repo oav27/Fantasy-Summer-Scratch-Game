@@ -6,7 +6,7 @@ Game made in Scratch. Created in the Summer of 2019!! BEFORE high school!
 
 ## Want To Play/See the Game?
 
-Head over to the **[See AND Play The Game section](https://github.com/oav27/Fantasy-Summer-Scratch-Game/edit/main/README.md#see-and-play-the-game)** (at the bottom of the page)! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
+Head over to the **See AND Play The Game section** (at the bottom of the page)! But don't forget to read the rest of this README file, so you can get the most understanding of my process making this game! Thanks!
 
 
 
